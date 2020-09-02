@@ -1,7 +1,6 @@
-# Jonathan Trost
-## Website Project
-### [DM Resource Chest](dmresourcechest.com)
-#### This site is a web application that I designed for the Dungeons and Dragons roleplaying game, which is a big hobby of mine. Here's a few notable features:
+# Website Project
+## [dmresourcechest.com](dmresourcechest.com)
+#### DM Resource Chest is a web application that I designed for the Dungeons and Dragons roleplaying game, which is a big hobby of mine. Here's a few notable features:
 
  - Built using the Angular framework for the front end and the Express framework for the back end
  - Near perfect Google Lighthouse audit scores
