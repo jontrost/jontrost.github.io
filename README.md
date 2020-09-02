@@ -1,5 +1,5 @@
 # Website Project
-## [dmresourcechest.com](dmresourcechest.com)
+## [dmresourcechest.com](https://dmresourcechest.com)
 #### DM Resource Chest is a web application that I designed for the Dungeons and Dragons roleplaying game, which is a big hobby of mine. Here's a few notable features:
 
  - Built using the Angular framework for the front end and the Express framework for the back end
